@@ -5,10 +5,12 @@ body{
 
 h1{
    color: #436f8a;
+    font-family: lucida bright;
 }
 
 h3{
    color: #66BFBF;
+    font-family: verdana;
 }
 
 hr{
