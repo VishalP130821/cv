@@ -24,3 +24,7 @@ hr{
   border-width: 6px;
   width: 10%;
   }
+
+a:hover{
+   color: #79d70f;
+}
