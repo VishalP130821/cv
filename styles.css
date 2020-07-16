@@ -1,17 +1,21 @@
 
 body{
     background-color: #EAF6F6;
-}
+    }
 
 h1{
    color: #436f8a;
     font-family: lucida bright;
-}
+  }
 
 h3{
    color: #66BFBF;
     font-family: verdana;
-}
+  }
+h2{
+    color: #66BFBF;
+    font-family: verdana;
+  }
 
 hr{
   border-style: none;
@@ -19,4 +23,4 @@ hr{
   border-color: grey;
   border-width: 6px;
   width: 10%;
-}
+  }
